@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: #212f3d;
+    font-family: "Orbitron", Impact;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+    flex-direction: column;
+}
+
+#homeScore {
+    color: white;
+    background-color: black;
+}
+
+#guestScore {
+    color: white;
+    background-color: black;
+}
